@@ -51,7 +51,6 @@ htmlcov/
 *.swp
 .swo
 *~
-backend/common/email_host_data.py
 
 
 # Logs
